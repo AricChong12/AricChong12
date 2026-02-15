@@ -43,5 +43,4 @@ Here are some ideas to get you started:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-<em><b>I love connecting with people from various backgrounds so if you want to say hi, I'll be happy to meet you !</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people from various backgrounds so if you want to say hi, I'll be happy to meet you !</b> :)</em>
