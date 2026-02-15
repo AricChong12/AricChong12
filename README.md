@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi There, I'm Zin Wen (Aric12) <img src="https://github.com/AricChong12/AricChong12/blob/main/gifs/Hi.gif" width="30"></h1>
 <h3 align="center">CS + Networking + Web</h3>
-<h3 align="center">🔥Transfroming Tech Solutions Into Realities🔥</h3>
+<h3 align="center"><img src="https://github.com/AricChong12/AricChong12/blob/main/gifs/fire2.gif" width="30">Transfroming Tech Solutions Into Realities<img src="https://github.com/AricChong12/AricChong12/blob/main/gifs/fire2.gif" width="30"></h3>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Developer Student Club Core Member (Technical)
