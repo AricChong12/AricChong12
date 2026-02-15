@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 
 
-## 🤣 Jokes for Everyone
+## 🤣 Developer Jokes for Everyone
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
