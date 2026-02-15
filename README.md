@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ```yaml
 - Working on learning NodeJS, ExpressJS and MongoDB
 - Working on learning Kotlin for Android Development
-- Working on learning Game Development with Unity
+- Working on learning Game Development with Unity Engine for university club
 - Joining Google Developer Groups on Campus to learn, collect slides and recordings
 ```
 
