@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <h3 align="center">CS + Networking + Web</h3>
 
 
-
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
