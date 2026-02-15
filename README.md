@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<h1 align="center">Hi 👋, I'm Zin Wen</h1>
+<h3 align="center">CS + Networking + Web</h3>
