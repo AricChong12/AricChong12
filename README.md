@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Zin Wen</h1>
 <h3 align="center">CS + Networking + Web</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 
 
