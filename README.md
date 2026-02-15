@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Zin Wen (Aric12)</h1>
 <h3 align="center">CS + Networking + Web</h3>
 
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🖥 Computer Networking Student
+- 💼 Student
+- 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 (Computer Networking) @ UTeM
+
+
+
+
 <h3 align="left">Technologies & Tools :</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,cpp,cs,arduino,debian,docker,firebase,github,java,linux,matlab,mysql,r,react,unity,vscode,eclipse,&perline=8)](https://skillicons.dev)
