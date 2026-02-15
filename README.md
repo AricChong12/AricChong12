@@ -51,4 +51,4 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Happy+Networking+%F0%9F%9B%9C;Happy+Coding+%F0%9F%92%BB)](https://git.io/typing-svg)
