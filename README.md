@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="left">Technologies & Tools :</h3>
 
+## 📜 𝙻𝚒𝚜𝚝 𝚘𝚏 Technologies & Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,cpp,cs,arduino,debian,docker,firebase,github,java,linux,matlab,mysql,r,react,unity,vscode,eclipse,&perline=8)](https://skillicons.dev)
 
 
