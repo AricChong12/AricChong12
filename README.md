@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
 - Working on learning NodeJS, ExpressJS and MongoDB
-- Working on Kotlin for Android Development
+- Working on learning Kotlin for Android Development
+- Working on learning Game Development with Unity
 - Joining Google Developer Groups on Campus to learn, collect slides and recordings
 ```
 
