@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Zin Wen (Aric12)</h1>
 <h3 align="center">CS + Networking + Web</h3>
+<h3 align="center">Transfroming Tech Solutions Into Realities</h3>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Developer Student Club Core Member (Technical)
