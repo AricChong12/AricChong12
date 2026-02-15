@@ -23,8 +23,13 @@ Here are some ideas to get you started:
 - 💼 Student
 - 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 (Computer Networking) at UTeM
 
-
-
+## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+```yaml
+- Working on learning NodeJS, ExpressJS and MongoDB
+- Working on Kotlin for Android Development
+- Joining Google Developer Groups on Campus to learn, collect slides and recordings
+```
 
 
 ## 📜 𝙻𝚒𝚜𝚝 𝚘𝚏 Technologies & Tools
