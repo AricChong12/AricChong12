@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Zin Wen (AricChong12)</h1>
+<h1 align="center">Hi 👋, I'm Zin Wen (Aric12)</h1>
 <h3 align="center">CS + Networking + Web</h3>
 
 <h3 align="left">Technologies & Tools :</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,cpp,cs,arduino,debian,docker,firebase,github,java,linux,matlab,mysql,r,react,unity,vscode,eclipse,&perline=8)](https://skillicons.dev)
 
-![AricChong12's GitHub stats](https://github-readme-stats.vercel.app/api?username=AricChong12&show_icons=true&theme=dark)
+![AricChong12's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aric12&show_icons=true&theme=dark)
 
