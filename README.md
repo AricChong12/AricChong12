@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Zin Wen</h1>
 <h3 align="center">CS + Networking + Web</h3>
 
-<h3 align="left">Technologies & Tools</h3>
+<p align="left">Technologies & Tools</p>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,cpp,cs,arduino,debian,docker,firebase,github,java,linux,matlab,mysql,r,react,unity,vscode,eclipse,&perline=10)](https://skillicons.dev)
 
