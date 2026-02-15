@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello World, I'm Zin Wen (Aric12)</h1>
+<h1 align="center">Hi There, I'm Zin Wen (Aric12)</h1>
 <h3 align="center">CS + Networking + Web</h3>
 <h3 align="center">Transfroming Tech Solutions Into Realities</h3>
 
