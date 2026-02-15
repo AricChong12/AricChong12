@@ -51,4 +51,4 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<b>Anyways and Always, Happy Networking and Coding !💻</b>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
