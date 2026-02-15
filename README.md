@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">CS + Networking + Web</h3>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Developer Student Club, DSC UTeM Technical Team
+- 🖥 Developer Student Club Core Member (Technical)
 - 💼 Student
 - 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 (Computer Networking) @ UTeM
 
