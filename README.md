@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,cpp,cs,arduino,debian,docker,firebase,github,java,linux,matlab,mysql,r,react,unity,vscode,eclipse,&perline=8)](https://skillicons.dev)
 
-![ZinWen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AricChong12&show_icons=true&theme=dark)
+
 
