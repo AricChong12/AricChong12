@@ -33,8 +33,12 @@ Here are some ideas to get you started:
 ```
 
 
-## 📜 𝙻𝚒𝚜𝚝 𝚘𝚏 Technologies & Tools
+## ⚙️ 𝙻𝚒𝚜𝚝 𝚘𝚏 Technologies & Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,cpp,cs,arduino,debian,docker,firebase,github,java,linux,matlab,mysql,r,react,unity,vscode,eclipse,&perline=8)](https://skillicons.dev)
+
+
+## 📜 Road Card
+[![roadmap.sh](https://roadmap.sh/card/tall/6998a13317addfec23eb1c25?variant=dark)](https://roadmap.sh)
 
 
 ## 📚 Quotes for Everyone
