@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,cpp,cs,arduino,debian,docker,firebase,github,java,linux,matlab,mysql,r,react,unity,vscode,eclipse,&perline=8)](https://skillicons.dev)
 
 
-## 📜 Road Card
-[![roadmap.sh](https://roadmap.sh/card/tall/6998a13317addfec23eb1c25?variant=dark)](https://roadmap.sh)
+## 📜 Roadmap Card
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6998a13317addfec23eb1c25?variant=dark&roadmaps=frontend" alt="roadmap.sh"/></a>
 
 
 ## 📚 Quotes for Everyone
