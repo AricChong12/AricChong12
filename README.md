@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 <h3 align="center">🔥Transforming Tech Solutions Into Realities🔥</h3>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Developer Student Club Core Member (Technical)
+- 🖥 Developer Student Club Core Member (Technical Team)
 - 💼 2nd Year Student at UTeM
 - 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 (Computer Networking)
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
-- Working on learning NodeJS, ExpressJS and MongoDB
+- Working on learning NextJS, ReactJS, NodeJS, ExpressJS, MongoDB with TypeScript
 - Working on learning Kotlin for Android Development
 - Working on learning Game Development with Unity Engine for university club
 - Joining Google Developer Groups on Campus to learn, collect slides and recordings
