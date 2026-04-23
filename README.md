@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 
 ## 🎨 List of Creative Tools
-[![My Skills](https://skillicons.dev/icons?i=au,ai,ps,an,pr,blender&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=au,ai,ps,pr,blender&perline=10)](https://skillicons.dev)
 
 
 ## 📜 Roadmap Card
