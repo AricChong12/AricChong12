@@ -34,7 +34,11 @@ Here are some ideas to get you started:
 
 
 ## ⚙️ 𝙻𝚒𝚜𝚝 𝚘𝚏 Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,cpp,cs,arduino,debian,docker,firebase,git,github,java,linux,matlab,mysql,r,react,unity,vscode,eclipse,au,ai,ps,pr&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,cpp,cs,arduino,debian,docker,firebase,git,github,java,linux,matlab,mysql,r,react,unity,vscode,eclipse&perline=10)](https://skillicons.dev)
+
+
+## 🎨 List of Creative Tools
+[![My Skills](https://skillicons.dev/icons?i=au,ai,ps,an,pr&perline=10)](https://skillicons.dev)
 
 
 ## 📜 Roadmap Card
