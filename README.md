@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 
 ## 📜 Roadmap Card
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6998a13317addfec23eb1c25?variant=dark&roadmaps=frontend" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6998a13317addfec23eb1c25?variant=dark&roadmaps=full-stack%2Ccomputer-science" alt="roadmap.sh"/></a>
 
 
 ## 📚 Quotes for Everyone
