@@ -45,6 +45,10 @@ Here are some ideas to get you started:
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6998a13317addfec23eb1c25?variant=dark&roadmaps=full-stack%2Ccomputer-science" alt="roadmap.sh"/></a>
 
 
+## 📏 Github Statistics
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AricChong12)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 📚 Quotes for Everyone
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
