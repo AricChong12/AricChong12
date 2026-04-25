@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 
 ## 📏 Github Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AricChong12&show_icons=true&theme=shadow_green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AricChong12&show_icons=true&theme=nightowl)
 
 
 ## 📚 Quotes for Everyone
