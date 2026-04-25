@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 
 ## 📏 Github Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AricChong12&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AricChong12)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=AricChong12&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 
@@ -54,8 +55,6 @@ Here are some ideas to get you started:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
-
-## 🤣 Developer Jokes for Everyone
 
 
 
