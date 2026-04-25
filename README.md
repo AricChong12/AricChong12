@@ -56,6 +56,11 @@ Here are some ideas to get you started:
 
 
 
+## 🏆 Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=AricChong12&theme=tokyonight&no-frame=true&margin-w=10)
+
+
+
 ## 📚 Quotes & Jokes for Everyone
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
