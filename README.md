@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
-- Working on learning NextJS, ReactJS, NodeJS, ExpressJS, MongoDB with TypeScript
+- Working on learning MERN stack for Web Development
 - Working on learning Kotlin for Android Development
 - Working on learning Game Development with Unity Engine for university club
 - Joining Google Developer Groups on Campus to learn, collect slides and recordings
