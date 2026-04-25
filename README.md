@@ -57,9 +57,10 @@ Here are some ideas to get you started:
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AricChong12&theme=tokyo-night)
 
 
+## Coding Statistics
+<!-- Shows real coding time -->
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=AricChong12&theme=tokyonight)
 
-
-![trophy](https://github-profile-trophy.vercel.app/?username=AricChong12&theme=tokyonight&no-frame=true&margin-w=15)
 
 
 
