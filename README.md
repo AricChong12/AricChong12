@@ -47,7 +47,6 @@ Here are some ideas to get you started:
 
 ## 📏 Github Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AricChong12&show_icons=true&theme=tokyonight)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=AricChong12&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 ## 💬 Top Languages
