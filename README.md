@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 
 ## 📏 Github Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AricChong12)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AricChong12&theme=tokyo-night)
 
 
 
