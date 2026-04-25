@@ -46,17 +46,7 @@ Here are some ideas to get you started:
 
 
 ## 📏 Github Statistics
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AricChong12&show_icons=true&theme=nightowl"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AricChong12&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=AricChong12&show_icons=true" />
-</picture>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AricChong12&show_icons=true&theme=shadow_green)
 
 
 ## 📚 Quotes for Everyone
