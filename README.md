@@ -46,6 +46,21 @@ Here are some ideas to get you started:
 
 
 ## 📏 Github Statistics
+<table align="center" style="border: none; background-color: transparent;">
+  <tr style="border: none;">
+    <td align="center" colspan="2" style="border: none;">
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AricChong12&show_icons=true&theme=tokyonight)
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=IrynOoi&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://streak-stats.demolab.com/?user=IrynOoi&theme=solarized-light&hide_border=false" alt="Streak Stats" />
+    </td>
+  </tr>
+</table>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AricChong12&show_icons=true&theme=tokyonight)
 
 
