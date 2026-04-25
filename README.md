@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AricChong12&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=AricChong12&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AricChong12&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
-![](https://komarev.com/ghpvc/?username=your-github-username&color=00ff00)
+
 
 
 
@@ -68,5 +68,5 @@ Here are some ideas to get you started:
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Happy+Networking+%F0%9F%9B%9C;Happy+Coding+%F0%9F%92%BB)](https://git.io/typing-svg)
-
+![](https://komarev.com/ghpvc/?username=your-github-username&color=00ff00)
 
