@@ -41,23 +41,23 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=au,ai,ps,pr,blender&perline=10)](https://skillicons.dev)
 
 
-## 📜 Roadmap Card
+## 📜 Roadmap Cards
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6998a13317addfec23eb1c25?variant=dark&roadmaps=full-stack%2Ccomputer-science" alt="roadmap.sh"/></a>
 
 
-## 📏 Github Statistics
+## 📏 GitHub Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AricChong12&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=AricChong12&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AricChong12&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
-## 📏 Github Contribution Graph
+## 📏 GitHub Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AricChong12&theme=tokyo-night)
 
 
 
-## 🏆 Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=AricChong12&theme=tokyonight&no-frame=true&margin-w=10)
+## 🏆 GitHub Badges
+![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)
 
 
 
