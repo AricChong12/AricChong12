@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![3D Profile](https://raw.githubusercontent.com/AricChong12/AricChong12/main/profile-3d-contrib/profile-night-rainbow.svg)
+
 <h1 align="center">Hi There, I'm Zin Wen (Aric12) <img src="https://github.com/AricChong12/AricChong12/blob/main/gifs/Hi.gif" width="30"></h1>
 <h3 align="center">CS + Networking + Web</h3>
 <h3 align="center">🔥Transforming Tech Solutions Into Realities🔥</h3>
@@ -55,9 +57,6 @@ Here are some ideas to get you started:
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AricChong12&theme=tokyo-night)
 
 
-
-## 🏆 GitHub Badges
-![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)
 
 
 
