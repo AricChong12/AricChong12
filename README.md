@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![3D Profile](https://raw.githubusercontent.com/AricChong12/AricChong12/main/profile-3d-contrib/profile-night-rainbow.svg)
+
 
 <h1 align="center">Hi There, I'm Zin Wen (Aric12) <img src="https://github.com/AricChong12/AricChong12/blob/main/gifs/Hi.gif" width="30"></h1>
 <h3 align="center">CS + Networking + Web</h3>
