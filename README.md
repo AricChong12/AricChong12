@@ -59,6 +59,9 @@ Here are some ideas to get you started:
 
 
 
+![trophy](https://github-profile-trophy.vercel.app/?username=AricChong12&theme=tokyonight&no-frame=true&margin-w=15)
+
+
 
 ## 📚 Quotes & Jokes for Everyone
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
