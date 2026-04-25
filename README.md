@@ -50,13 +50,13 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=AricChong12&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 
-## 📚 Quotes for Everyone
+## 📚 Quotes & Jokes for Everyone
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
 ## 🤣 Developer Jokes for Everyone
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
