@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 ## ⚙️ 𝙻𝚒𝚜𝚝 𝚘𝚏 Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,cpp,cs,arduino,debian,docker,firebase,git,github,java,linux,matlab,oracle,mysql,r,react,unity,vscode,eclipse,powershell,gcp&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,cpp,cs,arduino,debian,docker,firebase,git,github,java,linux,matlab,mysql,r,react,unity,vscode,eclipse,powershell,gcp&perline=10)](https://skillicons.dev)
 
 
 ## 🎨 List of Creative Tools
