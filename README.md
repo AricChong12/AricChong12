@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 <h3 align="center">CS + Networking + Web</h3>
 <h3 align="center">🔥Transforming Tech Solutions Into Realities🔥</h3>
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## :book: About Me
 - 🖥 Developer Student Club Core Member (Technical Team)
 - 💼 2nd Year Student at UTeM
 - 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛 of 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 (Computer Networking)
 
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+## ⬆ What I'm up to
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
 - Working on learning MERN stack for Web Development
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ```
 
 
-## ⚙️ 𝙻𝚒𝚜𝚝 𝚘𝚏 Technologies & Tools
+## ⚙️ List of Technologies & Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,cpp,cs,arduino,debian,docker,firebase,git,github,java,linux,matlab,mysql,r,react,unity,vscode,eclipse,powershell,gcp&perline=10)](https://skillicons.dev)
 
 
