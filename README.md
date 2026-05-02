@@ -48,13 +48,21 @@ Here are some ideas to get you started:
 
 
 ## 📏 GitHub Statistics
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AricChong12&show_icons=true&theme=tokyonight)-->
-<img src="https://github-readme-stats.shion.dev/api?username=AricChong12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Main Stats" />
-
-
-<img src="https://streak-stats.demolab.com/?user=AricChong12&theme=tokyonight&hide_border=false" alt="Streak Stats" />
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AricChong12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+<table align="center" style="border: none; background-color: transparent;">
+  <tr style="border: none;">
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://github-readme-stats.shion.dev/api?username=AricChong12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Main Stats" />
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AricChong12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://streak-stats.demolab.com/?user=AricChong12&theme=tokyonight&hide_border=false" alt="Streak Stats" />
+    </td>
+  </tr>
+</table>
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AricChong12&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
