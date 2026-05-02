@@ -48,11 +48,13 @@ Here are some ideas to get you started:
 
 
 ## 📏 GitHub Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AricChong12&show_icons=true&theme=tokyonight)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AricChong12&show_icons=true&theme=tokyonight)-->
 <img src="https://github-readme-stats.shion.dev/api?username=AricChong12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Main Stats" />
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AricChong12&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com/?user=AricChong12&theme=tokyonight&hide_border=false" alt="Streak Stats" />
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AricChong12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AricChong12&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
