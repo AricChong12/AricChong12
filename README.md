@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ## ⬆ What I'm up to
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
-- Working on learning MERN stack for Web Development
+- Working on learning Fullstack Python for Web Development
 - Working on learning Kotlin for Android Development
 - Working on learning Game Development with Unity Engine for university club
 - Joining Google Developer Groups on Campus to learn, collect slides and recordings
