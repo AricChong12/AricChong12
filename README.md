@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 ## ⬆ What I'm up to
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
-- Working on learning Fullstack Python for Web Development with AI Integration
+- Working on learning Flutter for Android Development
+- Working on learning React Native for Android Development
 - Working on learning Kotlin for Android Development
 - Working on learning Game Development with Unity Engine
 - Joining Google Developer Groups on Campus or any tech events to learn, collect slides and recordings
