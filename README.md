@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 <h3 align="center">🔥Bridging Computer Science Domains To Build Practical Systems🔥</h3>
 
 ## :book: About Me
-- 🖥 Developer Student Club Core Member (Technical Team)
-- 
+- 🖥 Developer Student Club (Technical Team) | CyberOps (Protocol Exco)
 - 💼 2nd Year Student at UTeM
 - 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛 of 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 (Computer Networking)
 
