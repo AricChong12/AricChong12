@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## :book: About Me
 - 🖥 Developer Student Club (Technical Team) | CyberOps (Protocol Exco)
-- 💼 2nd Year Student at UTeM
+- 💼 3rd Year Student at UTeM
 - 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛 of 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 (Computer Networking)
 
 ## ⬆ What I'm up to
