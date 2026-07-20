@@ -44,6 +44,65 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=au,ai,ps,pr,blender&perline=10)](https://skillicons.dev)
 
 
+## 📚 Study Plans
+---
+config:
+  theme: dark
+---
+graph TD
+    %% Main Root
+    Root["🎯 <b>Future Study Areas</br>"]
+
+    %% Level 1 Nodes
+    AI["🤖 <b>Artificial Intelligence (Hobby) </b>"]
+    SE["⚙️ <b>Software Engineering (Hobby)</b>"]
+    Cyber["🔒 <b>Cybersecurity (Complement)</b>"]
+    Game["🎮 <b>Game Development (Hobby)</b>"]
+    Cloud["☁️ <b>Cloud Computing (Complement)</b>"]
+    Quant["⚛️ <b>Quantum Computing (Future)</b>"]
+
+    %% Root Connections
+    Root --> AI
+    Root --> SE
+    Root --> Cyber
+    Root --> Game
+    Root --> Cloud
+    Root --> Quant
+
+    %% Level 2 Nodes
+    AI --> GenAI["Generative AI Application Development"]
+    AI --> Agentic["Agentic AI Application Development"]
+    AI --> AIEng["AI Engineering"]
+
+    SE --> Mobile["Mobile Application Development"]
+    SE --> IoT["IoT Application Development"]
+    SE --> Embed["Embedded Application Development"]
+    
+
+    Cyber --> CTF["CTF"]
+    Cyber --> Ethical["Penetration Testing"]
+    Cyber --> Secure["Secure Application Development"]
+
+    Game --> GameDev["Game Development"]
+    Game --> GameDevAI["AI Game Development"]
+
+    Cloud --> CloudApp["Cloud Application Development"]
+    Cloud --> AWS["AWS"]
+
+    Quant --> ?
+
+    %% Styling (Node Colors)
+    style Root fill:#8A2BE2,color:#000000
+
+    style AI fill:#3B82F6,color:#000000
+    style SE fill:#0F766E,color:#000000
+    style Cyber fill:#00C853,color:#000000
+    style Game fill:#06B6D4, color:#000000
+    style Cloud fill:#ffffff, color:#000000
+    style Quant fill:#00E5FF, color:#000000
+    
+
+
 ## 📜 Roadmap Cards
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6998a13317addfec23eb1c25?variant=dark&roadmaps=full-stack%2Ccomputer-science" alt="roadmap.sh"/></a>
 
