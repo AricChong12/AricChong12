@@ -45,16 +45,17 @@ Here are some ideas to get you started:
 
 
 ## 📚 Study Plans
+```mermaid
 ---
 config:
   theme: dark
 ---
 graph TD
     %% Main Root
-    Root["🎯 <b>Future Study Areas</br>"]
+    Root["🎯 <b>Future Study Areas</b>"]
 
     %% Level 1 Nodes
-    AI["🤖 <b>Artificial Intelligence (Hobby) </b>"]
+    AI["🤖 <b>Artificial Intelligence (Hobby)</b>"]
     SE["⚙️ <b>Software Engineering (Hobby)</b>"]
     Cyber["🔒 <b>Cybersecurity (Complement)</b>"]
     Game["🎮 <b>Game Development (Hobby)</b>"]
@@ -77,7 +78,6 @@ graph TD
     SE --> Mobile["Mobile Application Development"]
     SE --> IoT["IoT Application Development"]
     SE --> Embed["Embedded Application Development"]
-    
 
     Cyber --> CTF["CTF"]
     Cyber --> Ethical["Penetration Testing"]
@@ -89,18 +89,17 @@ graph TD
     Cloud --> CloudApp["Cloud Application Development"]
     Cloud --> AWS["AWS"]
 
-    Quant --> ?
+    Quant --> QuantDev["Quantum Algorithms"]
 
     %% Styling (Node Colors)
-    style Root fill:#8A2BE2,color:#000000
-
-    style AI fill:#3B82F6,color:#000000
-    style SE fill:#0F766E,color:#000000
-    style Cyber fill:#00C853,color:#000000
-    style Game fill:#06B6D4, color:#000000
-    style Cloud fill:#ffffff, color:#000000
-    style Quant fill:#00E5FF, color:#000000
-    
+    style Root fill:#8A2BE2,color:#ffffff,stroke:#8A2BE2
+    style AI fill:#3B82F6,color:#ffffff,stroke:#3B82F6
+    style SE fill:#0F766E,color:#ffffff,stroke:#0F766E
+    style Cyber fill:#00C853,color:#000000,stroke:#00C853
+    style Game fill:#06B6D4,color:#000000,stroke:#06B6D4
+    style Cloud fill:#ffffff,color:#000000,stroke:#ffffff
+    style Quant fill:#00E5FF,color:#000000,stroke:#00E5FF
+```
 
 
 ## 📜 Roadmap Cards
