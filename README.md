@@ -114,14 +114,14 @@ My interdisciplinary background in education includes:
 
 My Self-Taught background includes:
 
-| Self-Taught Domain | Levels |
-| :--- | :--- |
+| Self-Taught Domain | 
+| :--- | 
 | 💭 **Pyschology** | 
 
 Future Self-Taught Background includes:
 
-| Future Self-Taught Domain | Levels |
-| :--- | :--- |
+| Future Self-Taught Domain |
+| :--- | 
 | 💼 **Business** | 
 | 🏛️ **Law** | 
 
