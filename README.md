@@ -18,12 +18,34 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi There, I'm Zin Wen (Aric12) <img src="https://github.com/AricChong12/AricChong12/blob/main/gifs/Hi.gif" width="30"></h1>
 <h3 align="center">Network Engineer</h3>
-<h3 align="center">🔥Bridging Computer Science Domains To Build Practical Systems🔥</h3>
+<h3 align="center">Bridging Computer Science Domains To Build Practical Systems</h3>
 
 ## :book: About Me
-- 🖥 Developer Student Club (Technical Team) | CyberOps (Protocol Exco)
+- 💡 Developer Student Club UTeM
+- 💡 CyberOps UTeM
 - 💼 3rd Year Student at UTeM
 - 🎓 Bachelor of Computer Science (Computer Networking)
+
+
+## 👤 More About Me Right Now
+
+```typescript
+const zinwen: student = {
+  name:     "Zin Wen",
+  role:     "student",
+  location: "🌍 Malaysia",
+
+  focus: [
+    "🌐  Designing and building wired or wireless networks (Proficiency: High)",
+    "⚙️  Manual Coding or AI-assisted or Vibe Coding Software Development (Proficiency: Moderate) ",
+    "🔐  Blue Team and Red Team (Proficiency: Low [Just Started])",
+  ],
+
+  principle: "Building an intelligent, secure and automated networks",
+};
+
+
+
 
 ## ⬆ What I'm up to
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
