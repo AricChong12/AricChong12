@@ -92,9 +92,9 @@ graph TD
     Quant --> QuantDev["Quantum Algorithms"]
 
     %% Styling (Node Colors)
-    style Root fill:#8A2BE2,color:#ffffff,stroke:#8A2BE2
-    style AI fill:#3B82F6,color:#ffffff,stroke:#3B82F6
-    style SE fill:#0F766E,color:#ffffff,stroke:#0F766E
+    style Root fill:#8A2BE2,color:#000000,stroke:#8A2BE2
+    style AI fill:#3B82F6,color:#000000,stroke:#3B82F6
+    style SE fill:#0F766E,color:#000000,stroke:#0F766E
     style Cyber fill:#00C853,color:#000000,stroke:#00C853
     style Game fill:#06B6D4,color:#000000,stroke:#06B6D4
     style Cloud fill:#ffffff,color:#000000,stroke:#ffffff
