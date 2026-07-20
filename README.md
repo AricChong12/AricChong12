@@ -101,6 +101,17 @@ graph TD
     style Quant fill:#00E5FF,color:#000000,stroke:#00E5FF
 ```
 
+## 📚 School Times (Good Old Days)
+
+My interdisciplinary background includes:
+
+| Domain | Levels |
+| :--- | :--- |
+| 🚀 **Physics** | High School |
+| 🧪 **Chemistry** | High School  |
+| 🧬 **Biology** | Secondary School |
+
+
 
 ## 📜 Roadmap Cards
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6998a13317addfec23eb1c25?variant=dark&roadmaps=full-stack%2Ccomputer-science" alt="roadmap.sh"/></a>
