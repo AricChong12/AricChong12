@@ -103,13 +103,29 @@ graph TD
 
 ## 📚 School Times (Good Old Days)
 
-My interdisciplinary background includes:
+My interdisciplinary background in education includes:
 
 | Domain | Levels |
 | :--- | :--- |
+| 📐 **Maths** | University (Computer Science Maths) |
 | 🚀 **Physics** | High School |
 | 🧪 **Chemistry** | High School  |
 | 🧬 **Biology** | Secondary School |
+
+My Self-Taught background includes:
+
+| Self-Taught Domain | Levels |
+| :--- | :--- |
+| 💭 **Pyschology** | 
+
+Future Self-Taught Background includes:
+
+| Future Self-Taught Domain | Levels |
+| :--- | :--- |
+| 💼 **Business** | 
+| 🏛️ **Law** | 
+
+
 
 
 
