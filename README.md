@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🎓 Bachelor of Computer Science (Computer Networking)
 
 
-## 👤 More About Me
+## 💼 Jobs
 
 ```typescript
 const zinwen: student = {
@@ -47,7 +47,7 @@ const zinwen: student = {
 
 
 
-## ⬆ What I'm up to
+## 💻 Learning
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
 - Working on learning Flutter for Android Development
