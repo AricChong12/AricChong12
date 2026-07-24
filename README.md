@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🎓 Bachelor of Computer Science (Computer Networking)
 
 
-## 💼 Jobs
+## ⌨️ What I do
 
 ```typescript
 const zinwen: student = {
