@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <h3 align="center">Bridging Computer Science Domains To Build Practical Systems</h3>
 
 ## :book: About Me
-- 💡 Developer Student Club UTeM
-- 💡 CyberOps UTeM
-- 💼 3rd Year Student at UTeM
+- 💼 Developer Student Club UTeM
+- 💼 CyberOps UTeM
+- 📖 3rd Year Student at UTeM
 - 🎓 Bachelor of Computer Science (Computer Networking)
 
 
