@@ -36,7 +36,7 @@ const zinwen: student = {
   location: "🌍 Malaysia",
 
   focus: [
-    "🌐  Designing and building wired or wireless networks (Proficiency: High)",
+    "🌐  Designing and Building wired or wireless networks (Proficiency: High)",
     "⚙️  Manual Coding or AI-assisted or Vibe Coding Software Development (Proficiency: Moderate) ",
     "🔐  Blue Team and Red Team (Proficiency: Low [Just Started])",
   ],
