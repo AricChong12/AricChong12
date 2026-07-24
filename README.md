@@ -111,7 +111,7 @@ graph TD
     Cloud --> CloudApp["Cloud Application Development"]
     Cloud --> AWS["AWS"]
 
-    Quant --> QuantDev["Quantum Algorithms"]
+    Quant --> QuantDev["Quantum Application Development"]
 
     %% Styling (Node Colors)
     style Root fill:#8A2BE2,color:#000000,stroke:#8A2BE2
