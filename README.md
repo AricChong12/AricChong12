@@ -138,7 +138,7 @@ My Self-Taught background includes:
 
 | Self-Taught Domain | 
 | :--- | 
-| 💭 **Pyschology** | 
+| 💭 **Psychology** | 
 | 🧠 **Philosophy** |
 
 Future Self-Taught background includes:
