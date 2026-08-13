@@ -200,5 +200,10 @@ Future Self-Taught background includes:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Happy+Networking+%F0%9F%9B%9C;Happy+Coding+%F0%9F%92%BB)](https://git.io/typing-svg)
 -->
 
+Happy Networking !
+Happy Coding !
+Happy Hacking !
+
+
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=00ff00)
 
