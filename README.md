@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi There, I'm Zin Wen (Aric12) <img src="https://github.com/AricChong12/AricChong12/blob/main/gifs/Hi.gif" width="30"></h1>
-<h3 align="center">Network Security Engineer</h3>
+<h3 align="center">Network Engineer</h3>
 <h3 align="center">Bridging Computer Science Domains To Build Practical Systems</h3>
 
 ## :book: About Me
