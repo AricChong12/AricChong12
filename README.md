@@ -152,7 +152,7 @@ Future Self-Taught background includes:
 
 
 ## 📜 Roadmap Cards
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6998a13317addfec23eb1c25?variant=dark&roadmaps=full-stack%2Ccomputer-science" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6998a13317addfec23eb1c25?variant=dark&roadmaps=computer-science%2Cnetwork-engineer%2Cfull-stack%2Ccyber-security" alt="roadmap.sh"/></a>
 
 
 ## 📏 GitHub Statistics
