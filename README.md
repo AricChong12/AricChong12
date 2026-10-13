@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi There, I'm Zin Wen (Aric12)<img src="https://github.com/AricChong12/AricChong12/blob/main/gifs/Hi.gif" width="30"></h1>
-<h3 align="center">Network Engineer</h3>
-<h3 align="center">Bridging Computer Science Domains To Build Practical Systems</h3>
+<h3 align="center">Network & Cybersecurity Professional</h3>
+<h3 align="center">Building, Automating and Securing, Intellectualize Network Systems</h3>
 
 ## :book: About Me
 - 💼 CyberOps UTeM
@@ -40,13 +40,13 @@ const zinwen: student = {
     "🔐  Blue Team and Red Team (Proficiency: Low [Just Started])",
   ],
 
-  principle: "Building an intelligent, secure and automated networks",
+  principle: "Building, Automating, Intellectualize and Securing Network Systems",
 };
 ```
 
 
 
-## 💻 Learning
+## 💻 Hobbies
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
 - Working on learning Flutter for Android Development
