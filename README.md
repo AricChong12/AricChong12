@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi There, I'm Zin Wen (Aric12)<img src="https://github.com/AricChong12/AricChong12/blob/main/gifs/Hi.gif" width="30"></h1>
 <h3 align="center">Network & Cybersecurity Professional</h3>
-<h3 align="center">Building, Automating and Securing, Intellectualize Network Systems</h3>
+<h3 align="center">Building, Automating, Intellectualize and Securing Network Systems</h3>
 
 ## :book: About Me
 - 💼 CyberOps UTeM
