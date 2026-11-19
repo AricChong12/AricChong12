@@ -71,19 +71,20 @@
 
 <table width="100%">
 <tr>
-<td width="10%" align="center"><strong>MIPS Assembly</strong></td>
-<td width="10%" align="center"><strong>HTML</strong></td>
-<td width="10%" align="center"><strong>CSS</strong></td>
-<td width="10%" align="center"><strong>JavaScript</strong></td>
-<td width="10%" align="center"><strong>PHP</strong></td>
-<td width="10%" align="center"><strong>SQL</strong></td>
-<td width="10%" align="center"><strong>MySQL</strong></td>
-<td width="10%" align="center"><strong>ReactJS</strong></td>
-<td width="10%" align="center"><strong>C++</strong></td>
-<td width="10%" align="center"><strong>Java</strong></td>
+<td width="20%" align="center"><strong>MIPS Assembly</strong></td>
+<td width="20%" align="center"><strong>HTML</strong></td>
+<td width="20%" align="center"><strong>CSS</strong></td>
+<td width="20%" align="center"><strong>JavaScript</strong></td>
+<td width="20%" align="center"><strong>PHP</strong></td>
+</tr>
+<td width="20%" align="center"><strong>SQL</strong></td>
+<td width="20%" align="center"><strong>MySQL</strong></td>
+<td width="20%" align="center"><strong>ReactJS</strong></td>
+<td width="20%" align="center"><strong>C++</strong></td>
+<td width="20%" align="center"><strong>Java</strong></td>
 </tr>
 <tr>
-<td width="10%" align="center"><strong>R</strong></td>
+<td width="20%" align="center"><strong>R</strong></td>
 </tr>
 </table>
 
@@ -118,12 +119,14 @@
 
 <table width="100%">
 <tr>
-<td width="10%" align="center"><strong>Photoshop</strong></td>
-<td width="10%" align="center"><strong>Illustrator</strong></td>
-<td width="10%" align="center"><strong>Premiere Pro</strong></td>
-<td width="10%" align="center"><strong>Animate</strong></td>
-<td width="10%" align="center"><strong>Blender</strong></td>
-<td width="10%" align="center"><strong>Audacity</strong></td>
+<td width="20%" align="center"><strong>Photoshop</strong></td>
+<td width="20%" align="center"><strong>Illustrator</strong></td>
+<td width="20%" align="center"><strong>Premiere Pro</strong></td>
+<td width="20%" align="center"><strong>Animate</strong></td>
+<td width="20%" align="center"><strong>Blender</strong></td>
+</tr>
+<tr>
+<td width="20%" align="center"><strong>Audacity</strong></td>
 </tr>
 </table>
 
