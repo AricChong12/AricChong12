@@ -35,10 +35,10 @@
 
 <table width="100%">
 <tr>
-<td width="25%" align="center"><strong>51</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>50+</strong><br /><sub>Repositories</sub></td>
 <td width="25%" align="center"><strong>3</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>553</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>36</strong><br /><sub>Followers</sub></td>
+<td width="25%" align="center"><strong>500+</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>30+</strong><br /><sub>Followers</sub></td>
 </tr>
 </table>
 
