@@ -7,8 +7,9 @@
 <h1>Zin Wen (Aric12)</h1>
 <h2>Network Engineer / Full-Stack Web Developer / Purple Teaming </h2>
 <p>Network & Cybersecurity | Community, Event Operations, Challenge Creator | Hackathons & CTF</p>
-<p><strong>● Building, Automating, Intelligentizing and Securing Network Systems</strong></p>
 <p>Interested in Cybersecurity, AI, Mobile/IOS Application Development, Cloud Computing and Quantum Computing</p>
+<p><strong>● Building, Automating, Intelligentizing and Securing Network Systems</strong></p>
+
 <p><sub>Based in Malaysia · Building at UTeM</sub></p>
 
 </td>
@@ -43,15 +44,24 @@
 
 
 
-<h2>Selected work</h2>
+<h2>Networking Projects</h2>
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/OOP-Project">OOP-Project</a></h3><p>An Object-Oriented Programming Project</p><p></p></td>
+<td width="33%" valign="top"><h3><a href="">LAN Project</a></h3><p>A Local Area Network Project</p><p></p></td>
+
+</tr>
+</table>
+
+<h2>Software Engineering Projects</h2>
+
+<table width="100%">
+<tr>
 <td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/WebAppProject">WebAppProject</a></h3><p>A selected public project.</p><p></p></td>
 <td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/Workshop-1">Workshop-1</a></h3><p>Bookshop Management System</p><p></p></td>
 </tr>
 </table>
+
 
 
 <h2>Technical toolkit</h2>
