@@ -193,16 +193,28 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AricChong12&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
-<h2>📏 GitHub Contribution Graph</h2>
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AricChong12&theme=tokyo-night)
+<h2>📊 GitHub Contribution Graph</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AricChong12&theme=tokyo-night"
+    alt="GitHub Contribution Graph"
+    width="100%"
+  />
+</p>
 
 
 
 
 
 <h2>📚 Quotes & Jokes for Everyone</h2>
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+<p align="center">
+  <img
+    src="https://readme-jokes-rouge.vercel.app/api"
+    alt="Programming Jokes Card"
+  />
+</p>
 
 
 
