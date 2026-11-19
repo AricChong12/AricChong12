@@ -77,7 +77,7 @@
 
 <td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/skr-ctf">SKR CTF</a></h3><p>SKR CTF code that includes Cryptography</p><p></p></td>
 
-<td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/picoctf-writeups">PICO CTF</a></h3><p>PicoCTF code that includes General Skills and Binary Expxloitation</p><p></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/picoctf-writeups">PICO CTF</a></h3><p>PicoCTF code that includes General Skills and Binary Exploitation</p><p></p></td>
 </tr>
 </table>
 
@@ -86,9 +86,9 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/Networking-Guides">Networking Guides</a></h3><p>Networking for beginners</p><p></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/Networking-Guides">Networking Guides</a></h3><p>Networking that includes LAN and WAN commands for beginners</p><p></p></td>
 
-
+<td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/professional-cert-references">Professional Cert References</a></h3><p>Commands references for those who love Networking and Cybersecurity</p><p></p></td>
 </tr>
 </table>
 
