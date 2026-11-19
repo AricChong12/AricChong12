@@ -47,9 +47,9 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/OOP-Project">OOP-Project</a></h3><p>An Object-Oriented Programming Project</p><p><sub>Java · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/WebAppProject">WebAppProject</a></h3><p>A selected public project.</p><p><sub>PHP · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/Workshop-1">Workshop-1</a></h3><p>Bookshop Management System</p><p><sub>C++ · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/OOP-Project">OOP-Project</a></h3><p>An Object-Oriented Programming Project</p><p></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/WebAppProject">WebAppProject</a></h3><p>A selected public project.</p><p></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/Workshop-1">Workshop-1</a></h3><p>Bookshop Management System</p><p></p></td>
 </tr>
 </table>
 
