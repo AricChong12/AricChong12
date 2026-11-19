@@ -66,60 +66,60 @@
 
 
 
-<h2>Programming Languages</h2>
 
+<h2>Programming Languages</h2>
 
 <table width="100%">
 <tr>
-<td width="20%" align="center"><strong>MIPS Assembly</strong><br /></td>
-<td width="20%" align="center"><strong>HTML</strong><br /></td>
-<td width="20%" align="center"><strong>CSS</strong><br /></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /></td>
-<td width="20%" align="center"><strong>PHP</strong><br /></td>
-<td width="20%" align="center"><strong>SQL</strong><br /></td>
-<td width="20%" align="center"><strong>MySQL</strong><br /></td>
-<td width="20%" align="center"><strong>ReactJS</strong><br /></td>
-<td width="20%" align="center"><strong>C++</strong><br /></td>
-<td width="20%" align="center"><strong>Java</strong><br /></td>
-<td width="20%" align="center"><strong>R</strong><br /></td>
+<td width="10%" align="center"><strong>MIPS Assembly</strong></td>
+<td width="10%" align="center"><strong>HTML</strong></td>
+<td width="10%" align="center"><strong>CSS</strong></td>
+<td width="10%" align="center"><strong>JavaScript</strong></td>
+<td width="10%" align="center"><strong>PHP</strong></td>
+<td width="10%" align="center"><strong>SQL</strong></td>
+<td width="10%" align="center"><strong>MySQL</strong></td>
+<td width="10%" align="center"><strong>ReactJS</strong></td>
+<td width="10%" align="center"><strong>C++</strong></td>
+<td width="10%" align="center"><strong>Java</strong></td>
+</tr>
+<tr>
+<td width="10%" align="center"><strong>R</strong></td>
 </tr>
 </table>
 
 
-
-
 <h2>Technical Toolkit</h2>
-
 
 <table width="100%">
 <tr>
-<td width="20%" align="center"><strong>Cisco Packet Tracer</strong><br /></td>
-<td width="20%" align="center"><strong>GNS3</strong><br /></td>
-<td width="20%" align="center"><strong>Wireshark</strong><br /></td>
-<td width="20%" align="center"><strong>GitHub</strong><br /></td>
-<td width="20%" align="center"><strong>Virtual Box & VMware</strong><br /></td>
-<td width="20%" align="center"><strong>Visual Studio 2022</strong><br /></td>
-<td width="20%" align="center"><strong>Visual Studio Code</strong><br /></td>
-<td width="20%" align="center"><strong>WiFiAnalyzer</strong><br /></td>
-<td width="20%" align="center"><strong>WiFiman</strong><br /></td>
-<td width="20%" align="center"><strong>Arduino IDE</strong><br /></td>
-<td width="20%" align="center"><strong>Node-RED</strong><br /></td>
-<td width="20%" align="center"><strong>ProjectLibre</strong><br /></td>
+<td width="10%" align="center"><strong>Cisco Packet Tracer</strong></td>
+<td width="10%" align="center"><strong>GNS3</strong></td>
+<td width="10%" align="center"><strong>Wireshark</strong></td>
+<td width="10%" align="center"><strong>GitHub</strong></td>
+<td width="10%" align="center"><strong>VirtualBox & VMware</strong></td>
+<td width="10%" align="center"><strong>Visual Studio 2022</strong></td>
+<td width="10%" align="center"><strong>Visual Studio Code</strong></td>
+<td width="10%" align="center"><strong>WiFiAnalyzer</strong></td>
+<td width="10%" align="center"><strong>WiFiman</strong></td>
+<td width="10%" align="center"><strong>Arduino IDE</strong></td>
+</tr>
+<tr>
+<td width="10%" align="center"><strong>Node-RED</strong></td>
+<td width="10%" align="center"><strong>ProjectLibre</strong></td>
 </tr>
 </table>
 
 
 <h2>Multimedia</h2>
 
-
 <table width="100%">
 <tr>
-<td width="20%" align="center"><strong>Photoshop</strong><br /></td>
-<td width="20%" align="center"><strong>Illustrator</strong><br /></td>
-<td width="20%" align="center"><strong>Premiere pro</strong><br /></td>
-<td width="20%" align="center"><strong>Animate</strong><br /></td>
-<td width="20%" align="center"><strong>Blender</strong><br /></td>
-<td width="20%" align="center"><strong>Audacity</strong><br /></td>
+<td width="10%" align="center"><strong>Photoshop</strong></td>
+<td width="10%" align="center"><strong>Illustrator</strong></td>
+<td width="10%" align="center"><strong>Premiere Pro</strong></td>
+<td width="10%" align="center"><strong>Animate</strong></td>
+<td width="10%" align="center"><strong>Blender</strong></td>
+<td width="10%" align="center"><strong>Audacity</strong></td>
 </tr>
 </table>
 
