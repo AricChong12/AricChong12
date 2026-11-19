@@ -167,6 +167,49 @@
 
 
 
+
+<h2>📜 Roadmap Cards</h2>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6998a13317addfec23eb1c25?variant=dark&roadmaps=computer-science%2Cnetwork-engineer%2Cfull-stack%2Ccyber-security" alt="roadmap.sh"/></a>
+
+
+<h2>📏 GitHub Statistics</h2>
+<table align="center" style="border: none; background-color: transparent;">
+  <tr style="border: none;">
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://github-readme-stats.shion.dev/api?username=AricChong12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Main Stats" />
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AricChong12&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://streak-stats.demolab.com/?user=AricChong12&theme=tokyonight&hide_border=false" alt="Streak Stats" />
+    </td>
+  </tr>
+</table>
+
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AricChong12&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
+
+
+<h2>📏 GitHub Contribution Graph</h2>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AricChong12&theme=tokyo-night)
+
+
+
+
+
+<h2>📚 Quotes & Jokes for Everyone</h2>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+
+
+
+
+
+
 <hr />
 
 <table width="100%">
