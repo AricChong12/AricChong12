@@ -6,9 +6,11 @@
 <p><sub>RECRUITER SIGNAL BRIEF · aricchong12</sub></p>
 <h1>Zin Wen (Aric12)</h1>
 <h2>Aspiring AI Network Security Engineer</h2>
+<p><strong>Building, Automating, Intelligentizing and Securing Network Systems</strong></p>
 <p>Network & Cybersecurity | Community, Event Operations, Challenge Creator | Hackathons & CTF</p>
 <p>Interested in Cybersecurity, AI, Mobile/IOS Application Development, Cloud Computing and Quantum Computing</p>
-<p><strong>Building, Automating, Intelligentizing and Securing Network Systems</strong></p>
+<p>Community Admin & Protocol Exco of CyberOps UTeM</p>
+
 
 <p><sub>Based in Malaysia · Building at UTeM</sub></p>
 
