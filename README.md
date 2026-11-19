@@ -48,8 +48,8 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/LAN-Project">LAN Project</a><h3><p>An enterprise network for Company XYZ, featuring VLAN segmentation, VLSM subnetting, inter-VLAN routing, centralized network services, and enhanced security mechanisms.</p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/WAN-Project">WAN Project</a><h3><p>A comprehensive LAN/WAN network infrastructure featuring VLAN segmentation, inter-VLAN routing, ACLs, DHCPv4, eBGP, IPsec, PAT, PPP, and secure device management.</p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/LAN-Project">LAN Project</a></h3><p>An enterprise network for Company XYZ, featuring VLAN segmentation, VLSM subnetting, inter-VLAN routing, centralized network services, and enhanced security mechanisms.</p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/WAN-Project">WAN Project</a></h3><p>A comprehensive LAN/WAN network infrastructure featuring VLAN segmentation, inter-VLAN routing, ACLs, DHCPv4, eBGP, IPsec, PAT, PPP, and secure device management.</p></td>
 
 </tr>
 </table>
