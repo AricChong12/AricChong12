@@ -57,7 +57,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/WebAppProject">WebAppProject</a></h3><p>A selected public project.</p><p></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/WebAppProject">WebAppProject</a></h3><p>The Business Registration Web Application (BRWGo) applies a structured web architecture by separating presentation, logic, and data management. The Frontend uses HTML, CSS, and JavaScript for user interaction, while the Backend utilizes PHP running on Apache to process registration, renewal, and termination requests. MySQL manages business and user records. Administrators access a dashboard to review, approve, and monitor submissions efficiently, ensuring organized workflow and data consistency.</p><p></p></td>
 <td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/Workshop-1">Workshop-1</a></h3><p>Bookshop Management System</p><p></p></td>
 </tr>
 </table>
