@@ -31,7 +31,7 @@
 </table>
 
 
-<h2>Proof at a glance</h2>
+<h2>Proof At A Glance</h2>
 
 <table width="100%">
 <tr>
@@ -69,7 +69,7 @@
 
 
 
-<h2>CTF code</h2>
+<h2>CTF Code</h2>
 
 <table width="100%">
 <tr>
@@ -80,6 +80,18 @@
 <td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/picoctf-writeups">PICO CTF</a></h3><p>PicoCTF code that includes General Skills and Binary Expxloitation</p><p></p></td>
 </tr>
 </table>
+
+
+<h2>Community Projects By Me</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/Networking-Guides">Networking Guides</a></h3><p>Networking for beginners</p><p></p></td>
+
+
+</tr>
+</table>
+
 
 
 
@@ -108,7 +120,7 @@
 
 
 
-<h2>Technical Toolkit</h2>
+<h2>Technical Toolkits</h2>
 
 <table width="100%">
 <tr>
