@@ -241,7 +241,7 @@
 
 <table width="100%">
 <tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to collaborative teams, ambitious products, and useful engineering work.</p>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to collaborative teams, ambitious projects, and useful engineering work.</p>
 </tr>
 <tr>
 <td width="62%" valign="middle"><p>Happy Networking, Coding and Hacking !</p>
