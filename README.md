@@ -8,10 +8,9 @@
 <h2>Network Engineer / Full-Stack Web Developer / Purple Teaming </h2>
 <p>Network & Cybersecurity | Community, Event Operations, Challenge Creator | Hackathons & CTF</p>
 <p><strong>● Building, Automating, Intelligentizing and Securing Network Systems</strong></p>
-<p><strong>Interested in Cybersecurity, AI, Mobile/IOS Application Development, Cloud Computing and Quantum Computing</strong></p>
+<p>Interested in Cybersecurity, AI, Mobile/IOS Application Development, Cloud Computing and Quantum Computing</p>
 <p><sub>Based in Malaysia · Building at UTeM</sub></p>
-<!--
-<p><a href="https://github.com/aricchong12">GitHub</a></p>-->
+
 </td>
 <td width="36%" valign="middle" align="center">
 <img src="https://avatars.githubusercontent.com/u/132274620?u=0d9bf1d1a6e44026b7e90d2579e4d08da0cf0902&amp;v=4" width="180" alt="Aric12 GitHub avatar" />
