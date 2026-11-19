@@ -76,11 +76,11 @@
 
 <table width="100%">
 <tr>
-<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /></td>
-<td width="20%" align="center"><strong>Python</strong><br /></td>
-<td width="20%" align="center"><strong>TypeScript</strong><br /></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /></td>
+<td width="20%" align="center"><strong>MIPS Assembly</strong><br /></td>
+<td width="20%" align="center"><strong>HTML</strong><br /></td>
 <td width="20%" align="center"><strong>CSS</strong><br /></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /></td>
+<td width="20%" align="center"><strong>PHP</strong><br /></td>
 </tr>
 </table>
 
@@ -90,7 +90,7 @@
 <table width="100%">
 <tr>
 <td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Happy Networking, Coding and Hacking</p></td>
+<td width="62%" valign="middle"><p>Happy Networking, Coding and Hacking</p></td>
 </tr>
 </table>
 <!--
