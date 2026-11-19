@@ -6,8 +6,9 @@
 <p><sub>RECRUITER SIGNAL BRIEF · aricchong12</sub></p>
 <h1>Zin Wen (Aric12)</h1>
 <h2>Network Engineer / Full-Stack Web Developer / Purple Teaming </h2>
-<p>Network & Cybersecurity | Community, Event Operations, Challenge Creator | Hackcathons & CTF</p>
+<p>Network & Cybersecurity | Community, Event Operations, Challenge Creator | Hackathons & CTF</p>
 <p><strong>● Building, Automating, Intelligentizing and Securing Network Systems</strong></p>
+<p><strong>Interested in Cybersecurity, AI, Mobile/IOS Application Development, Cloud Computing and Quantum Computing</strong></p>
 <p><sub>Based in Malaysia · Building at UTeM</sub></p>
 <!--
 <p><a href="https://github.com/aricchong12">GitHub</a></p>-->
