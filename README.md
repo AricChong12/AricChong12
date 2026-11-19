@@ -87,11 +87,11 @@
 
 <table width="100%">
 <tr>
-<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>97% of public code</sub></td>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>1% of public code</sub></td>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>1% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>0% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>0% of public code</sub></td>
+<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /></td>
+<td width="20%" align="center"><strong>Python</strong><br /></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /></td>
+<td width="20%" align="center"><strong>CSS</strong><br /></td>
 </tr>
 </table>
 
@@ -109,7 +109,8 @@
 <table width="100%">
 <tr>
 <td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/aricchong12">GitHub</a></td>
+  <!--
+<td width="38%" valign="middle" align="right"><a href="https://github.com/aricchong12">GitHub</a></td>-->
 </tr>
 </table>
 <!--
