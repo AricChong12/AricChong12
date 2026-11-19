@@ -79,6 +79,10 @@
 
 <td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/picoctf-writeups">PICO CTF</a></h3><p>PicoCTF code that includes General Skills and Binary Exploitation</p><p></p></td>
 </tr>
+
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/dictionary-of-ctf-competition-code">Dictionary of CTF Code</a></h3><p>Master Repository of CTF code that includes various types of challenges</p><p></p></td>
+</tr>
 </table>
 
 
