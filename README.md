@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · aricchong12</sub></p>
 <h1>Zin Wen (Aric12)</h1>
-<h2>Network Engineer / Full-Stack Web Developer / Purple Teaming </h2>
+<h2>Network Engineer · Full-Stack Web Developer · Purple Teaming </h2>
 <p>Network & Cybersecurity | Community, Event Operations, Challenge Creator | Hackathons & CTF</p>
 <p>Interested in Cybersecurity, AI, Mobile/IOS Application Development, Cloud Computing and Quantum Computing</p>
 <p><strong>● Building, Automating, Intelligentizing and Securing Network Systems</strong></p>
@@ -20,11 +20,11 @@
 </table>
 </div>
 
-<h2>Evaluation</h2>
+<h2>Profile</h2>
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Network Engineer · Full-Stack Web Developer · Purple Teaming</p></td>
+<td width="33%" valign="top"><h3>Role Interested</h3><p>Network Engineer · Full-Stack Web Developer · Purple Teaming</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>50+ repositories · 3 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>500+ contributions · Always active</p></td>
 </tr>
