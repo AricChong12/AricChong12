@@ -66,7 +66,7 @@
 
 
 
-<h2>Technical toolkit</h2>
+<h2>Programming Languages</h2>
 
 
 <table width="100%">
@@ -76,15 +76,61 @@
 <td width="20%" align="center"><strong>CSS</strong><br /></td>
 <td width="20%" align="center"><strong>JavaScript</strong><br /></td>
 <td width="20%" align="center"><strong>PHP</strong><br /></td>
+<td width="20%" align="center"><strong>SQL</strong><br /></td>
+<td width="20%" align="center"><strong>MySQL</strong><br /></td>
+<td width="20%" align="center"><strong>ReactJS</strong><br /></td>
+<td width="20%" align="center"><strong>C++</strong><br /></td>
+<td width="20%" align="center"><strong>Java</strong><br /></td>
+<td width="20%" align="center"><strong>R</strong><br /></td>
 </tr>
 </table>
+
+
+
+
+<h2>Technical Toolkit</h2>
+
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Cisco Packet Tracer</strong><br /></td>
+<td width="20%" align="center"><strong>GNS3</strong><br /></td>
+<td width="20%" align="center"><strong>Wireshark</strong><br /></td>
+<td width="20%" align="center"><strong>GitHub</strong><br /></td>
+<td width="20%" align="center"><strong>Virtual Box & VMware</strong><br /></td>
+<td width="20%" align="center"><strong>Visual Studio 2022</strong><br /></td>
+<td width="20%" align="center"><strong>Visual Studio Code</strong><br /></td>
+<td width="20%" align="center"><strong>WiFiAnalyzer</strong><br /></td>
+<td width="20%" align="center"><strong>WiFiman</strong><br /></td>
+<td width="20%" align="center"><strong>Arduino IDE</strong><br /></td>
+<td width="20%" align="center"><strong>Node-RED</strong><br /></td>
+<td width="20%" align="center"><strong>ProjectLibre</strong><br /></td>
+</tr>
+</table>
+
+
+<h2>Multimedia</h2>
+
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Photoshop</strong><br /></td>
+<td width="20%" align="center"><strong>Illustrator</strong><br /></td>
+<td width="20%" align="center"><strong>Premiere pro</strong><br /></td>
+<td width="20%" align="center"><strong>Animate</strong><br /></td>
+<td width="20%" align="center"><strong>Blender</strong><br /></td>
+<td width="20%" align="center"><strong>Audacity</strong><br /></td>
+</tr>
+</table>
+
+
 
 
 <hr />
 
 <table width="100%">
 <tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to collaborative teams, ambitious products, and useful engineering work.</p>
 </tr>
 <tr>
 <td width="62%" valign="middle"><p>Happy Networking, Coding and Hacking !</p>
