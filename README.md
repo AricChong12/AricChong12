@@ -42,12 +42,7 @@
 </tr>
 </table>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=aricchong12&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F132274620%3Fu%3D0d9bf1d1a6e44026b7e90d2579e4d08da0cf0902%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=aricchong12&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F132274620%3Fu%3D0d9bf1d1a6e44026b7e90d2579e4d08da0cf0902%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Aric12 GitHub proof metrics" />
-</picture>
-</p>
+
 
 <h2>Selected work</h2>
 
@@ -78,12 +73,6 @@
 
 <h2>Technical toolkit</h2>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=aricchong12&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F132274620%3Fu%3D0d9bf1d1a6e44026b7e90d2579e4d08da0cf0902%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=aricchong12&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F132274620%3Fu%3D0d9bf1d1a6e44026b7e90d2579e4d08da0cf0902%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Aric12 technology stack" />
-</picture>
-</p>
 
 <table width="100%">
 <tr>
@@ -95,26 +84,15 @@
 </tr>
 </table>
 
-<h2>Consistency signal</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=aricchong12&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F132274620%3Fu%3D0d9bf1d1a6e44026b7e90d2579e4d08da0cf0902%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=aricchong12&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F132274620%3Fu%3D0d9bf1d1a6e44026b7e90d2579e4d08da0cf0902%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Aric12 contribution activity" />
-</picture>
-</p>
 
 <hr />
 
 <table width="100%">
 <tr>
 <td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-  <!--
-<td width="38%" valign="middle" align="right"><a href="https://github.com/aricchong12">GitHub</a></td>-->
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Happy Networking, Coding and Hacking</p></td>
 </tr>
 </table>
 <!--
 <p align="center"><sub>Aric12 · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 -->
-
-
