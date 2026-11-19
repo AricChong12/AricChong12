@@ -49,6 +49,7 @@
 <table width="100%">
 <tr>
 <td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/LAN-Project">LAN Project</a></h3><p>An enterprise network for Company XYZ, featuring VLAN segmentation, VLSM subnetting, inter-VLAN routing, centralized network services, and enhanced security mechanisms.</p></td>
+
 <td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/WAN-Project">WAN Project</a></h3><p>A comprehensive LAN/WAN network infrastructure featuring VLAN segmentation, inter-VLAN routing, ACLs, DHCPv4, eBGP, IPsec, PAT, PPP, and secure device management.</p></td>
 
 </tr>
@@ -59,10 +60,27 @@
 <table width="100%">
 <tr>
 <td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/WebAppProject">Web App Project</a></h3><p>A full-stack business registration web application, BRWGo, featuring online business registration, renewal, termination, administrative management, and database integration.</p><p></p></td>
+
 <td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/Workshop-1">Workshop 1</a></h3><p>A C++ based Bookshop Management System (BMS) integrated with MySQL, featuring database management, user interfaces, core system functionality, report generation, and system evaluation.</p><p></p></td>
+
 <td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/OOP-Project">OOP Project</a></h3><p>A database-driven Hotel Management System (HMS) built using the Model–View–Controller (MVC) architecture, featuring customer, room, booking, and payment management with relational database integration.</p><p></p></td>
 </tr>
 </table>
+
+
+
+<h2>CTF code</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/cspp-ctf-code">CSPP CTF</a></h3><p>CS Plus Plus CTF code that includes Cryptography, Forensics, Programming, Reversing & Logic, Steganography and Web Exploitation</p><p></p></td>
+
+<td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/skr-ctf">SKR CTF</a></h3><p>SKR CTF code that includes Cryptography</p><p></p></td>
+
+<td width="33%" valign="top"><h3><a href="https://github.com/AricChong12/picoctf-writeups">PICO CTF</a></h3><p>PicoCTF code that includes General Skills and Binary Expxloitation</p><p></p></td>
+</tr>
+</table>
+
 
 
 
