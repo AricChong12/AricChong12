@@ -19,7 +19,7 @@
 </table>
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+<h2>Evaluation</h2>
 
 <table width="100%">
 <tr>
