@@ -114,6 +114,9 @@
 
 <p align="center"><sub>Aric12 · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 
+
+
+
 <!--
 **AricChong12/AricChong12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
