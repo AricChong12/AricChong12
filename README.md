@@ -168,11 +168,11 @@
 
 
 
-<h2>📜 Roadmap Cards</h2>
+<h2>Roadmap Cards</h2>
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6998a13317addfec23eb1c25?variant=dark&roadmaps=computer-science%2Cnetwork-engineer%2Cfull-stack%2Ccyber-security" alt="roadmap.sh"/></a>
 
 
-<h2>📏 GitHub Statistics</h2>
+<h2>GitHub Statistics</h2>
 <table align="center" style="border: none; background-color: transparent;">
   <tr style="border: none;">
     <td align="center" colspan="2" style="border: none;">
@@ -193,7 +193,7 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AricChong12&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
-<h2>📊 GitHub Contribution Graph</h2>
+<h2>GitHub Contribution Graph</h2>
 
 <p align="center">
   <img
@@ -207,14 +207,29 @@
 
 
 
-<h2>📚 Quotes & Jokes for Everyone</h2>
 
+<h2>Quotes & Jokes for Everyone</h2>
+
+<!-- Programming Quotes -->
+<p align="center">
+  <a href="https://github.com/PiyushSuthar/github-readme-quotes">
+    <img
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+      alt="Programming Quotes"
+      width="80%"
+    />
+  </a>
+</p>
+
+<!-- Programming Jokes -->
 <p align="center">
   <img
     src="https://readme-jokes-rouge.vercel.app/api"
-    alt="Programming Jokes Card"
+    alt="Random Programming Jokes"
+    width="80%"
   />
 </p>
+
 
 
 
