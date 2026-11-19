@@ -88,9 +88,10 @@
 </table>
 
 
+
 <h2>Technical Toolkit</h2>
 
-<table width="100%">
+<table width="100%" style="table-layout: fixed; width: 100%; overflow-wrap: break-word;">
 <tr>
 <td width="10%" align="center"><strong>Cisco Packet Tracer</strong></td>
 <td width="10%" align="center"><strong>GNS3</strong></td>
