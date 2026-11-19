@@ -89,10 +89,6 @@
 
 <table width="100%">
 <tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<p>Happy Networking, Coding and Hacking</p></td>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work. Happy Networking, Coding and Hacking !</p>
 </tr>
 </table>
-<!--
-<p align="center"><sub>Aric12 · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
--->
