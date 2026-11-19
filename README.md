@@ -4,12 +4,13 @@
 <tr>
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · aricchong12</sub></p>
-<h1>Aric12</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Network &amp; Cybersecurity Professional | Hackathons &amp; CTF | Community &amp; Event Operations, Challenge Creator | Cybersecurity Enthusiast</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<h1>Zin Wen (Aric12)</h1>
+<h2>Network Engineer / Full-Stack Web Developer / Purple Teaming </h2>
+<p>Network & Cybersecurity | Community, Event Operations, Challenge Creator | Hackcathons & CTF</p>
+<p><strong>● Building, Automating, Intelligentizing and Securing Network Systems</strong></p>
 <p><sub>Based in Malaysia · Building at UTeM</sub></p>
-<p><a href="https://github.com/aricchong12">GitHub</a></p>
+<!--
+<p><a href="https://github.com/aricchong12">GitHub</a></p>-->
 </td>
 <td width="36%" valign="middle" align="center">
 <img src="https://avatars.githubusercontent.com/u/132274620?u=0d9bf1d1a6e44026b7e90d2579e4d08da0cf0902&amp;v=4" width="180" alt="Aric12 GitHub avatar" />
@@ -22,13 +23,13 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Jupyter Notebook · Python · TypeScript</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Network Engineer · Full-Stack Web Developer · Purple Teaming</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>51 repositories · 3 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>553 contributions · 80 active days</p></td>
 </tr>
 </table>
 
-<p><sub>Network &amp; Cybersecurity Professional | Hackathons &amp; CTF | Community &amp; Event Operations, Challenge Creator | Cybersecurity Enthusiast</sub></p>
+<p><sub>Network & Cybersecurity | Community, Event Operations, Challenge Creator | Hackcathons & CTF</sub></p>
 
 <h2>Proof at a glance</h2>
 
@@ -111,8 +112,8 @@
 <td width="38%" valign="middle" align="right"><a href="https://github.com/aricchong12">GitHub</a></td>
 </tr>
 </table>
-
+<!--
 <p align="center"><sub>Aric12 · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
-
+-->
 
 
