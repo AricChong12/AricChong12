@@ -91,24 +91,27 @@
 
 <h2>Technical Toolkit</h2>
 
-<table width="100%" style="table-layout: fixed; width: 100%; overflow-wrap: break-word;">
+<table width="100%">
 <tr>
-<td width="10%" align="center"><strong>Cisco Packet Tracer</strong></td>
-<td width="10%" align="center"><strong>GNS3</strong></td>
-<td width="10%" align="center"><strong>Wireshark</strong></td>
-<td width="10%" align="center"><strong>GitHub</strong></td>
-<td width="10%" align="center"><strong>VirtualBox & VMware</strong></td>
-<td width="10%" align="center"><strong>Visual Studio 2022</strong></td>
-<td width="10%" align="center"><strong>Visual Studio Code</strong></td>
-<td width="10%" align="center"><strong>WiFiAnalyzer</strong></td>
-<td width="10%" align="center"><strong>WiFiman</strong></td>
-<td width="10%" align="center"><strong>Arduino IDE</strong></td>
+<td width="20%" align="center"><strong>Cisco Packet Tracer</strong></td>
+<td width="20%" align="center"><strong>GNS3</strong></td>
+<td width="20%" align="center"><strong>Wireshark</strong></td>
+<td width="20%" align="center"><strong>GitHub</strong></td>
+<td width="20%" align="center"><strong>VirtualBox & VMware</strong></td>
 </tr>
 <tr>
-<td width="10%" align="center"><strong>Node-RED</strong></td>
-<td width="10%" align="center"><strong>ProjectLibre</strong></td>
+<td width="20%" align="center"><strong>Visual Studio 2022</strong></td>
+<td width="20%" align="center"><strong>Visual Studio Code</strong></td>
+<td width="20%" align="center"><strong>WiFiAnalyzer</strong></td>
+<td width="20%" align="center"><strong>WiFiman</strong></td>
+<td width="20%" align="center"><strong>Arduino IDE</strong></td>
+</tr>
+<tr>
+<td width="20%" align="center"><strong>Node-RED</strong></td>
+<td width="20%" align="center"><strong>ProjectLibre</strong></td>
 </tr>
 </table>
+
 
 
 <h2>Multimedia</h2>
