@@ -90,7 +90,7 @@
 <table width="100%">
 <tr>
 <td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="62%" valign="middle"><p>Happy Networking, Coding and Hacking</p></td>
+<p>Happy Networking, Coding and Hacking</p></td>
 </tr>
 </table>
 <!--
