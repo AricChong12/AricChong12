@@ -156,6 +156,7 @@
 <td width="20%" align="center"><strong>Docker</strong></td>
 <td width="20%" align="center"><strong>Firebase</strong></td>
 <td width="20%" align="center"><strong>Eclipse</strong></td>
+<td width="20%" align="center"><strong>Google Cloud Platform</strong></td>
 </tr>
 </table>
 
