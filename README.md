@@ -121,6 +121,8 @@
 </tr>
 <tr>
 <td width="20%" align="center"><strong>R</strong></td>
+<td width="20%" align="center"><strong>Matlab</strong></td>
+<td width="20%" align="center"><strong>Arduino</strong></td>
 </tr>
 </table>
 
@@ -133,7 +135,7 @@
 <td width="20%" align="center"><strong>Cisco Packet Tracer</strong></td>
 <td width="20%" align="center"><strong>GNS3</strong></td>
 <td width="20%" align="center"><strong>Wireshark</strong></td>
-<td width="20%" align="center"><strong>GitHub</strong></td>
+<td width="20%" align="center"><strong>Git & GitHub</strong></td>
 <td width="20%" align="center"><strong>VirtualBox & VMware</strong></td>
 </tr>
 <tr>
@@ -146,6 +148,14 @@
 <tr>
 <td width="20%" align="center"><strong>Node-RED</strong></td>
 <td width="20%" align="center"><strong>ProjectLibre</strong></td>
+<td width="20%" align="center"><strong>Linux</strong></td>
+<td width="20%" align="center"><strong>Powershell</strong></td>
+<td width="20%" align="center"><strong>CMD</strong></td>
+</tr>
+<tr>
+<td width="20%" align="center"><strong>Docker</strong></td>
+<td width="20%" align="center"><strong>Firebase</strong></td>
+<td width="20%" align="center"><strong>Eclipse</strong></td>
 </tr>
 </table>
 
