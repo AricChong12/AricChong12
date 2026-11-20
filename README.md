@@ -7,7 +7,7 @@
 <h1>Zin Wen (Aric12)</h1>
 <h2>Aspiring AI Network Security Engineer</h2>
 <p><strong>Building, Automating, Intelligentizing and Securing Network Systems</strong></p>
-<p>Network & Cybersecurity | Community, Event Operations, Challenge Creator | Hackathons & CTF</p>
+<p>Network & Cybersecurity | Community & Event Operations, Challenge Creator | Hackathons & CTF</p>
 <p>Interested in Cybersecurity, AI, Mobile/IOS Application Development, Cloud Computing and Quantum Computing</p>
 <p>Community Admin & Protocol Exco of CyberOps UTeM</p>
 
@@ -221,7 +221,7 @@
 
 
 
-<h2>Quotes & Jokes for Everyone</h2>
+<h2>Quotes for Everyone</h2>
 
 <!-- Programming Quotes -->
 <p align="center">
@@ -234,14 +234,14 @@
   </a>
 </p>
 
-<!-- Programming Jokes -->
+<!-- Programming Jokes 
 <p align="center">
   <img
     src="https://readme-jokes-rouge.vercel.app/api"
     alt="Random Programming Jokes"
     width="80%"
   />
-</p>
+</p>-->
 
 
 
